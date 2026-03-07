@@ -51,5 +51,10 @@ The system uses password hashing with Flask-Bcrypt to securely store user passwo
 5. Update database connection settings in `connect.py`
 6. Run the application
 
+---
 
+## AI Declaration
 
+ChatGPT was used as a learning and debugging assistant during this project. 
+It helped explain programming concepts, suggest example code, and identify errors. 
+All final design decisions, testing, and integration were completed by Lisa Lin.
