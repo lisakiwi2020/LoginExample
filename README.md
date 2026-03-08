@@ -6,6 +6,7 @@ This web application is a cleanup event management system developed using Python
 The system allows users to register accounts, log in securely, and access different functions depending on their user role.
 The application supports the organisation and management of environmental cleanup events, including event registration, volunteer participation, feedback submission, and administrative reporting.
 The system implements role-based access control, ensuring that different users have access to appropriate features.
+
 ---
 
 ## User Roles
@@ -59,6 +60,7 @@ The database is pre-populated with sample data:
 | Event Registrations | 20 |
 
 Staff and Admin accounts are created directly in the database for management purposes.
+
 ---
 
 ## Main Features
