@@ -65,6 +65,37 @@ Staff and Admin accounts are created directly in the database for management pur
 
 ---
 
+## Test Login Accounts
+
+The system includes pre-configured accounts for testing different user roles.
+
+### Admin Accounts
+| Username | Password |
+|---------|---------|
+| admin1 | admin1pass |
+| admin2 | admin2pass |
+
+### Staff / Event Leader Accounts
+| Username | Password |
+|---------|---------|
+| staff1 | staff1pass |
+| staff2 | staff2pass |
+| staff3 | staff3pass |
+| staff4 | staff4pass |
+| staff5 | staff5pass |
+
+### Customer / Volunteer Accounts
+| Username | Password |
+|---------|---------|
+| customer1 | customer1pass |
+| customer2 | customer2pass |
+| customer3 | customer3pass |
+| customer4 | customer4pass |
+| customer5 | customer5pass |
+
+Customers can also create new accounts using the **Sign Up** page.
+---
+
 ## Main Features
 
 - User registration
