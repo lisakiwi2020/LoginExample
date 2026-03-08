@@ -1,6 +1,7 @@
 # COMP639 Individual Web Application
 
 ## System Description
+
 This web application is a cleanup event management system developed using Python and Flask.
 The system allows users to register accounts, log in securely, and access different functions depending on their user role.
 The application supports the organisation and management of environmental cleanup events, including event registration, volunteer participation, feedback submission, and administrative reporting.
@@ -13,35 +14,35 @@ The system supports three types of users:
 
 Customer / Volunteer
 
-  Can register an account through the web interface
+  - Can register an account through the web interface
   
-  Can browse and filter available cleanup events
+  - Can browse and filter available cleanup events
   
-  Can register for events
+  - Can register for events
   
-  Can view their registered events
+  - Can view their registered events
   
-  Can submit feedback after attending events
+  - Can submit feedback after attending events
 
 Staff / Event Leader
 
-  Can create new cleanup events
+  - Can create new cleanup events
   
-  Can edit existing events
+  - Can edit existing events
   
-  Can generate event reports
+  - Can generate event reports
 
 Admin
 
-  Can manage all events
+  - Can manage all events
   
-  Can view and search all users
+  - Can view and search all users
   
-  Can view individual user profiles
+  - Can view individual user profiles
   
-  Can update user roles
+  - Can update user roles
 
-Can view system statistics and reports
+- Can view system statistics and reports
 ---
 
 
