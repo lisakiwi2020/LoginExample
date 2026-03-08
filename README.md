@@ -3,9 +3,7 @@
 ## System Description
 This web application is a cleanup event management system developed using Python and Flask.
 The system allows users to register accounts, log in securely, and access different functions depending on their user role.
-
 The application supports the organisation and management of environmental cleanup events, including event registration, volunteer participation, feedback submission, and administrative reporting.
-
 The system implements role-based access control, ensuring that different users have access to appropriate features.
 ---
 
