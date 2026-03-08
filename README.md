@@ -7,7 +7,7 @@ The system allows users to register accounts, log in securely, and access differ
 The application supports the organisation and management of environmental cleanup events, including event registration, volunteer participation, feedback submission, and administrative reporting.
 The system implements role-based access control, ensuring that different users have access to appropriate features.
 Live Application:
-https://yourusername.pythonanywhere.com
+https://lisakiwi2026.pythonanywhere.com
 
 ---
 
