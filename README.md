@@ -49,12 +49,13 @@ Can view system statistics and reports
 
 The database is pre-populated with sample data:
 
-Data Type	Quantity
-Customers / Volunteers	20
-Staff / Event Leaders	5
-Admin Users	2
-Cleanup Events	20
-Event Registrations	20
+| Data Type | Quantity |
+|-----------|----------|
+| Customers / Volunteers | 20 |
+| Staff / Event Leaders | 5 |
+| Admin Users | 2 |
+| Cleanup Events | 20 |
+| Event Registrations | 20 |
 
 Staff and Admin accounts are created directly in the database for management purposes.
 ---
