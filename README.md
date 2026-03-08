@@ -94,6 +94,7 @@ The system includes pre-configured accounts for testing different user roles.
 | customer5 | customer5pass |
 
 Customers can also create new accounts using the **Sign Up** page.
+
 ---
 
 ## Main Features
