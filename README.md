@@ -6,11 +6,12 @@ It allows users to register accounts, log in securely, and access different page
 
 The system supports three types of users:
 
-- Customer (Volunteer)
-- Staff (Event Leader)
-- Admin
+- Customer /Volunteer - 20 already in the database
+- Staff /Event Leader - - 5 already in the database
+- Admin - 2 already in the database
 
 Customers can register for events through the web interface.  
+20 events and 20 registrations are in the database. 
 Staff and Admin accounts are created directly in the database.
 
 The system uses password hashing with Flask-Bcrypt to securely store user passwords.
