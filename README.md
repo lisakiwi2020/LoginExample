@@ -11,7 +11,7 @@ The system supports three types of users:
 - Admin - 2 already in the database
 
 Customers can register for events through the web interface.  
-20 events and 20 registrations are in the database. 
+20 events and 20 registrations are in the database.
 Staff and Admin accounts are created directly in the database.
 
 The system uses password hashing with Flask-Bcrypt to securely store user passwords.
