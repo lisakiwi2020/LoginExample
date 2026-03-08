@@ -1,21 +1,64 @@
 # COMP639 Individual Web Application
 
 ## System Description
-This web application is an event management system developed using Python and Flask.  
-It allows users to register accounts, log in securely, and access different pages depending on their role.
+This web application is a cleanup event management system developed using Python and Flask.
+The system allows users to register accounts, log in securely, and access different functions depending on their user role.
+
+The application supports the organisation and management of environmental cleanup events, including event registration, volunteer participation, feedback submission, and administrative reporting.
+
+The system implements role-based access control, ensuring that different users have access to appropriate features.
+---
+
+## User Roles
 
 The system supports three types of users:
 
-- Customer /Volunteer - 20 already in the database
-- Staff /Event Leader - - 5 already in the database
-- Admin - 2 already in the database
+Customer / Volunteer
 
-Customers can register for events through the web interface.  
-20 events and 20 registrations are in the database.
-Staff and Admin accounts are created directly in the database.
+  Can register an account through the web interface
+  
+  Can browse and filter available cleanup events
+  
+  Can register for events
+  
+  Can view their registered events
+  
+  Can submit feedback after attending events
 
-The system uses password hashing with Flask-Bcrypt to securely store user passwords.
+Staff / Event Leader
 
+  Can create new cleanup events
+  
+  Can edit existing events
+  
+  Can generate event reports
+
+Admin
+
+  Can manage all events
+  
+  Can view and search all users
+  
+  Can view individual user profiles
+  
+  Can update user roles
+
+Can view system statistics and reports
+---
+
+
+## Database Data
+
+The database is pre-populated with sample data:
+
+Data Type	Quantity
+Customers / Volunteers	20
+Staff / Event Leaders	5
+Admin Users	2
+Cleanup Events	20
+Event Registrations	20
+
+Staff and Admin accounts are created directly in the database for management purposes.
 ---
 
 ## Main Features
